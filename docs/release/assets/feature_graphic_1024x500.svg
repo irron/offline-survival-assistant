@@ -1,0 +1,29 @@
+<svg width="1024" height="500" viewBox="0 0 1024 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="76" y1="44" x2="948" y2="456" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2B332E"/>
+      <stop offset="1" stop-color="#111614"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="730" y1="120" x2="930" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#313A35"/>
+      <stop offset="1" stop-color="#232926"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="500" rx="40" fill="url(#bg)"/>
+  <circle cx="880" cy="102" r="90" fill="#7BD07F" fill-opacity="0.08"/>
+  <circle cx="110" cy="410" r="120" fill="#FF8A34" fill-opacity="0.09"/>
+  <text x="76" y="134" fill="#F4F3EA" font-family="Arial, sans-serif" font-size="56" font-weight="700">OFFLINE SURVIVAL ASSISTANT</text>
+  <text x="76" y="186" fill="#B8BCAF" font-family="Arial, sans-serif" font-size="28" font-weight="700">末日工具箱</text>
+  <text x="76" y="258" fill="#F4F3EA" font-family="Arial, sans-serif" font-size="26">离线 AI 生存助手</text>
+  <text x="76" y="298" fill="#F4F3EA" font-family="Arial, sans-serif" font-size="26">知识库 / SOS / 指南针 / GPS</text>
+  <text x="76" y="366" fill="#B8BCAF" font-family="Arial, sans-serif" font-size="20">断网也能用，适合野外、灾害、极端环境应急场景</text>
+  <rect x="700" y="88" width="250" height="320" rx="28" fill="url(#panel)" stroke="#465047" stroke-width="2"/>
+  <rect x="726" y="126" width="198" height="56" rx="16" fill="#2A312D" stroke="#465047" stroke-width="2"/>
+  <text x="750" y="160" fill="#F4F3EA" font-family="Arial, sans-serif" font-size="18" font-weight="700">AI 生存聊天</text>
+  <rect x="726" y="206" width="198" height="72" rx="18" fill="#1A201D"/>
+  <text x="746" y="248" fill="#B8BCAF" font-family="Arial, sans-serif" font-size="18">我在山里迷路了</text>
+  <rect x="726" y="294" width="198" height="82" rx="18" fill="#313932" stroke="#485248" stroke-width="2"/>
+  <text x="746" y="325" fill="#F4F3EA" font-family="Arial, sans-serif" font-size="16">1. 保持冷静</text>
+  <text x="746" y="349" fill="#F4F3EA" font-family="Arial, sans-serif" font-size="16">2. 寻找低处与水源</text>
+  <text x="746" y="373" fill="#F4F3EA" font-family="Arial, sans-serif" font-size="16">3. 做标记避免绕圈</text>
+</svg>

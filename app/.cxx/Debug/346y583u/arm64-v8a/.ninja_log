@@ -1,0 +1,7 @@
+# ninja log v5
+1	1362	7958954797142144	CMakeFiles/survival_llm.dir/llm_mnn_jni.cpp.o	dc781546807533d1
+1367	1484	7958954798445347	E:/dev/ToolApp/app/build/intermediates/cxx/Debug/346y583u/obj/arm64-v8a/libsurvival_llm.so	e6fe63a8a1b47e1d
+0	2721	7958976782393290	CMakeFiles/doomllm.dir/llm_mnn_jni.cpp.o	e4cb47747edaa98b
+8	2878	7958976784014703	CMakeFiles/doomllm.dir/llm_session.cpp.o	265a32884fb2ca73
+2879	2975	7958976785085717	E:/dev/ToolApp/app/build/intermediates/cxx/Debug/346y583u/obj/arm64-v8a/libdoomllm.so	da45f12a781b9034
+1	16	0	clean	19e07c68bbbdb75

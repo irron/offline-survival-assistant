@@ -1,0 +1,4 @@
+# ninja log v5
+6	4145	7960214847575777	CMakeFiles/doomllm.dir/llm_session.cpp.o	22ab3b3e8527b256
+0	4193	7960214847995474	CMakeFiles/doomllm.dir/llm_mnn_jni.cpp.o	ed01dda55ba2e62b
+4194	4324	7960214849453469	E:/dev/ToolApp/app/build/intermediates/cxx/RelWithDebInfo/k4y423t7/obj/arm64-v8a/libdoomllm.so	74886a2476a712ae

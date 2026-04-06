@@ -1,0 +1,6 @@
+/keystore.properties
+/keystore/
+/RELEASE_SIGNING_INFO.txt
+/.gradle/
+/local.properties
+**/build/

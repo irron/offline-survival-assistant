@@ -1,0 +1,29 @@
+{
+  "buildFiles": [
+    "E:\\dev\\ToolApp\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\dev\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\dev\\ToolApp\\app\\.cxx\\Debug\\346y583u\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\dev\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\dev\\ToolApp\\app\\.cxx\\Debug\\346y583u\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "doomllm::@6890427a1f51a3e7e1df": {
+      "artifactName": "doomllm",
+      "abi": "arm64-v8a",
+      "output": "E:\\dev\\ToolApp\\app\\build\\intermediates\\cxx\\Debug\\346y583u\\obj\\arm64-v8a\\libdoomllm.so",
+      "runtimeFiles": [
+        "E:\\dev\\ToolApp\\app\\src\\main\\jniLibs\\arm64-v8a\\libMNN.so"
+      ]
+    }
+  }
+}

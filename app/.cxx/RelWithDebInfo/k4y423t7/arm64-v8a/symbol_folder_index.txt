@@ -1,0 +1,1 @@
+E:\dev\ToolApp\app\build\intermediates\cxx\RelWithDebInfo\k4y423t7\obj\arm64-v8a
