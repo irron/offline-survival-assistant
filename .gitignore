@@ -3,4 +3,6 @@
 /RELEASE_SIGNING_INFO.txt
 /.gradle/
 /local.properties
+/app/.cxx/
+/app/build/
 **/build/
